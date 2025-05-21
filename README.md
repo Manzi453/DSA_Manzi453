@@ -1,6 +1,3 @@
-Sure! Here's a very **brief** version of the `README.md`:
-
----
 
 ## Sparse Matrix Operations
 
@@ -24,6 +21,4 @@ cols=...
 (row,col,value)
 ```
 
----
 
-Let me know if you want it saved as a file.
