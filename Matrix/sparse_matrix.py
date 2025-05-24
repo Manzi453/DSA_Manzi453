@@ -163,9 +163,9 @@ def show_menu():
 def main():
     print("Sparse Matrix Operations Program")
 
-    file1 = "/mnt/d/xammp/htdocs/DSA/sample.txt/easy_sample_02_1.txt"
-    file2 = "/mnt/d/xammp/htdocs/DSA/sample.txt/easy_sample_02_2.txt"
-    output_file = "/mnt/d/xammp/htdocs/DSA/sample.txt/output.txt"
+    file1 = "/d/xammp/htdocs/DSA/DSA_Manzi453/sample.txt/easy_sample_02_1.txt"
+    file2 = "/d/xammp/htdocs/DSA/DSA_Manzi453/sample.txt/easy_sample_02_2.txt"
+    output_file = "/d/xammp/htdocs/DSA/DSA_Manzi453/sample.txt/output.txt"
 
     while True:
         choice = show_menu()
